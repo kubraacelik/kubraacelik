@@ -1,4 +1,4 @@
 Hi 👋 I'm Kübra
-- 🌱 I’m currently learning C#, HTML, CSS, JavaScript.
+- 🌱 I’m currently learning C#,Java, HTML, CSS, JavaScript.
 - 📫 How to reach me: kkbra.celik92@gmail.com
 - 👩‍💻 https://www.linkedin.com/in/fatma-kübra-çelik-2308b6207/ 
