@@ -10,7 +10,7 @@
 </p>
 
 ## 📚 My Medium Account
-[@kubracelik](https://medium.com/@kubraacelik)
+### [@kubracelik](https://medium.com/@kubraacelik)
 
 ## 📫 How to Reach Me
 
