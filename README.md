@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Kübra
 
-### 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+### 🌱 I’m currently learning HTML, CSS, JavaScript and React JS.
 
 ## 📌 GitHub Stats And Top Languages
 
