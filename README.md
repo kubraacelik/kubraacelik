@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
+[![MasterHead](https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif)
 ### Hi 👋 I'm Kübra
 
 ### 🌱 I’m currently learning HTML, CSS, JavaScript and React JS.
