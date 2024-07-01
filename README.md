@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kübra</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Resim">
