@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kübra</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Resim">
@@ -29,3 +29,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kubracelik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kubracelik" /></a></p><br><br>
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=kubraacelik.my-repo)
