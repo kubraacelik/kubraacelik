@@ -30,4 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kubracelik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kubracelik" /></a></p><br><br>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=kubraacelik.README.md)
+![](https://api.visitorbadge.io/api/VisitorHit?user=kubraacelik&repo=README.md&countColor=%237B1E7A)
