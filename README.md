@@ -5,6 +5,10 @@
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Resim">
 </p>
 
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=kubraacelik&repo=README.md&countColor=%237B1E7A" alt="Visitor Badge">
+</div>
+
 ### 🌱 I’m currently learning HTML, CSS, JavaScript, React JS and C#
 
 ## 📌 GitHub Stats And Top Languages
@@ -29,5 +33,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kubracelik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kubracelik" /></a></p><br><br>
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=kubraacelik&repo=README.md&countColor=%237B1E7A)
