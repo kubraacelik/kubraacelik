@@ -9,7 +9,7 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=kubraacelik&repo=README.md&countColor=%237B1E7A" alt="Visitor Badge">
 </div>
 
-### 🌱I have proficiency in HTML, CSS, JavaScript, and React JS, and I am currently learning .NET.
+### 🌱I have proficiency in HTML, CSS, JavaScript, and React JS, and I am currently learning Node.js.
 
 ## 📌 GitHub Stats And Top Languages
 
